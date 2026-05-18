@@ -59,10 +59,7 @@ Ensure you have **XAMPP** (containing Apache and MySQL Server with PHP 8+) insta
 
 ### 2. Clone the Repository
 Clone this repository directly into your local XAMPP directory:
-```bash
-cd "C:\xampp\htdocs"
-git clone https://github.com/devikashetty1710/Smart-Parking-System.git dbms_final
-```
+
 
 ### 3. Initialize the Database
 1. Turn on **Apache** and **MySQL** inside your XAMPP Control Panel.
